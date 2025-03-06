@@ -1,4 +1,4 @@
-package template
+package hutils
 
 import "testing"
 

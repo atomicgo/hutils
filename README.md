@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-<strong><a href="https://pkg.go.dev/atomicgo.dev/template#section-documentation" target="_blank">Documentation</a></strong>
+<strong><a href="https://pkg.go.dev/atomicgo.dev/hutils#section-documentation" target="_blank">Documentation</a></strong>
 |
 <strong><a href="https://github.com/atomicgo/atomicgo/blob/main/CONTRIBUTING.md" target="_blank">Contributing</a></strong>
 |
@@ -68,7 +68,7 @@
 </tbody>
 </table>
 </p>
-<h3  align="center"><pre>go get atomicgo.dev/template</pre></h3>
+<h3  align="center"><pre>go get atomicgo.dev/hutils</pre></h3>
 <p align="center">
 <table>
 <tbody>
@@ -83,10 +83,10 @@
 # template
 
 ```go
-import "atomicgo.dev/template"
+import "atomicgo.dev/hutils"
 ```
 
-Package template is used to generate new AtomicGo repositories.
+package hutils is used to generate new AtomicGo repositories.
 
 Write the description of the module here. You can use \*\*markdown\*\*\! This description should clearly explain what the package does.
 
@@ -102,7 +102,7 @@ package main
 import (
 	"fmt"
 
-	"atomicgo.dev/template"
+	"atomicgo.dev/hutils"
 )
 
 func main() {
@@ -142,7 +142,7 @@ package main
 import (
 	"fmt"
 
-	"atomicgo.dev/template"
+	"atomicgo.dev/hutils"
 )
 
 func main() {

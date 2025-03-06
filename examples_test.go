@@ -1,9 +1,9 @@
-package template_test
+package hutils_test
 
 import (
 	"fmt"
 
-	"atomicgo.dev/template"
+	template "atomicgo.dev/hutils"
 )
 
 func Example_demo() {

@@ -1,3 +1,3 @@
-module atomicgo.dev/template
+module atomicgo.dev/hutils
 
-go 1.22
+go 1.24
